@@ -1,0 +1,3 @@
+test file 1
+
+Test how this works with many files 1
